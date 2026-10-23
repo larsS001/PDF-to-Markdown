@@ -128,8 +128,4 @@ Mit dem Tool erzeugte Markdown-Dateien sind von der Lizenz nicht betroffen; sie 
 
 ## Video
 
-
-https://github.com/user-attachments/assets/aa8f3c62-5975-452a-b3fb-085d51c216b6
-
-
-
+Ein kurzes Screenrecording, das beide Wege zeigt (Rechtsklick auf ein PDF und Ablegen im Eingang-Ordner), folgt in Kürze.
